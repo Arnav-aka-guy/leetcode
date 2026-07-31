@@ -1,18 +1,22 @@
 class Solution {
 public:
-    vector<int> intersect(vector<int>& nums1, vector<int>& nums2) 
-    {
-        vector <int> nums3 ;
-        for (int x : nums1)
-        {
-            auto it = find(nums2.begin(), nums2.end(), x);
+    vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
 
-            if (it != nums2.end())
-            {
-                nums3.push_back(x);
-                nums2.erase(it);      
+        unordered_map<int, int> freq;
+        
+        for (int x : nums1) {
+            freq[x]++;
+        }
+
+        vector<int> ans;
+
+        for (int x : nums2) {
+            if (freq[x] > 0) {
+                ans.push_back(x);
+                freq[x]--;
             }
         }
-        return nums3;     
+
+        return ans;
     }
 };
