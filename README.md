@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Arnav-aka-guy/leetcode/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
