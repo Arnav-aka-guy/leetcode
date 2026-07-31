@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arnav-aka-guy/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,12 +19,14 @@
 | [0219-contains-duplicate-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Arnav-aka-guy/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,6 +41,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,6 +51,7 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/Arnav-aka-guy/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
