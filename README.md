@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnav-aka-guy/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Arnav-aka-guy/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Arnav-aka-guy/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
@@ -47,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arnav-aka-guy/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -71,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arnav-aka-guy/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arnav-aka-guy/leetcode/tree/master/0014-longest-common-prefix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
