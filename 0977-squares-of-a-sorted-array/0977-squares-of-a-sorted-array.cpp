@@ -7,17 +7,19 @@ public:
 
         int left = 0;
         int right = n - 1;
+        int index = n - 1;
 
-        for (int i = n - 1; i >= 0; i--) {
+        while (left <= right) {
 
             if (abs(nums[left]) > abs(nums[right])) {
-                ans[i] = nums[left] * nums[left];
+                ans[index] = nums[left] * nums[left];
                 left++;
-            }
-            else {
-                ans[i] = nums[right] * nums[right];
+            } else {
+                ans[index] = nums[right] * nums[right];
                 right--;
             }
+
+            index--;
         }
 
         return ans;
