@@ -19,6 +19,7 @@
 | [0561-array-partition](https://github.com/Arnav-aka-guy/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0561-array-partition](https://github.com/Arnav-aka-guy/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0283-move-zeroes](https://github.com/Arnav-aka-guy/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
