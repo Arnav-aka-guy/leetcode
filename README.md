@@ -78,6 +78,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Arnav-aka-guy/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arnav-aka-guy/leetcode/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Arnav-aka-guy/leetcode/tree/master/0058-length-of-last-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
