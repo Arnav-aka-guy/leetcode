@@ -53,6 +53,7 @@
 | [0013-roman-to-integer](https://github.com/Arnav-aka-guy/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arnav-aka-guy/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Arnav-aka-guy/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -102,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Arnav-aka-guy/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Newton's Method
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arnav-aka-guy/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
