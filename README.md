@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arnav-aka-guy/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Arnav-aka-guy/leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Arnav-aka-guy/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arnav-aka-guy/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arnav-aka-guy/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Arnav-aka-guy/leetcode/tree/master/0015-3sum) |
+| [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Arnav-aka-guy/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -119,4 +122,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arnav-aka-guy/leetcode/tree/master/0070-climbing-stairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
