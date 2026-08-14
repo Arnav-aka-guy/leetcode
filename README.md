@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Arnav-aka-guy/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Arnav-aka-guy/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Arnav-aka-guy/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Arnav-aka-guy/leetcode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0189-rotate-array) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arnav-aka-guy/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Arnav-aka-guy/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Arnav-aka-guy/leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Arnav-aka-guy/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Arnav-aka-guy/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Arnav-aka-guy/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Arnav-aka-guy/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +93,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Arnav-aka-guy/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arnav-aka-guy/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Arnav-aka-guy/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arnav-aka-guy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
