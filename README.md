@@ -1,7 +1,7 @@
 # leetcode
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Array
+## Array!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnav-aka-guy/leetcode/tree/master/0001-two-sum) |
