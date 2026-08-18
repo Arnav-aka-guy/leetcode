@@ -138,7 +138,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
-## Number Theory
+## Number Theory!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Arnav-aka-guy/leetcode/tree/master/0258-add-digits) |
