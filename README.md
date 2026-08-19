@@ -149,4 +149,20 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Arnav-aka-guy/leetcode/tree/master/1051-height-checker) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
