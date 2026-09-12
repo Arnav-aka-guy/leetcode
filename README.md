@@ -73,6 +73,7 @@
 | [0258-add-digits](https://github.com/Arnav-aka-guy/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Arnav-aka-guy/leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Arnav-aka-guy/leetcode/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,4 +185,5 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/Arnav-aka-guy/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
