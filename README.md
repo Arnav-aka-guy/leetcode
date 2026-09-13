@@ -24,6 +24,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Arnav-aka-guy/leetcode/tree/master/1051-height-checker) |
+| [1480-running-sum-of-1d-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -186,4 +187,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/Arnav-aka-guy/leetcode/tree/master/0342-power-of-four) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
