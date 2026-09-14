@@ -24,6 +24,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Arnav-aka-guy/leetcode/tree/master/1051-height-checker) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arnav-aka-guy/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
