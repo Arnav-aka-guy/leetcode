@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnav-aka-guy/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arnav-aka-guy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Arnav-aka-guy/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -71,6 +72,7 @@
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arnav-aka-guy/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arnav-aka-guy/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arnav-aka-guy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Arnav-aka-guy/leetcode/tree/master/0258-add-digits) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arnav-aka-guy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
