@@ -84,6 +84,7 @@
 | [0412-fizz-buzz](https://github.com/Arnav-aka-guy/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav-aka-guy/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
@@ -143,6 +144,7 @@
 | [0070-climbing-stairs](https://github.com/Arnav-aka-guy/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav-aka-guy/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Newton's Method
 |  |
 | ------- |
@@ -205,8 +207,13 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Arnav-aka-guy/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav-aka-guy/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Stack
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arnav-aka-guy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav-aka-guy/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
