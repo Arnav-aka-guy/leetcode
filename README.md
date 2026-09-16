@@ -81,6 +81,7 @@
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Arnav-aka-guy/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Arnav-aka-guy/leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Arnav-aka-guy/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -119,6 +120,7 @@
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Arnav-aka-guy/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Arnav-aka-guy/leetcode/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -150,6 +152,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Arnav-aka-guy/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Arnav-aka-guy/leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Memoization
