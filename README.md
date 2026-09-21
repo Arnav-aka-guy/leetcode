@@ -42,6 +42,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Arnav-aka-guy/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Arnav-aka-guy/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -123,6 +124,7 @@
 | [0058-length-of-last-word](https://github.com/Arnav-aka-guy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Arnav-aka-guy/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Arnav-aka-guy/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Arnav-aka-guy/leetcode/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
