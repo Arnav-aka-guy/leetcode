@@ -45,6 +45,7 @@
 | [0290-word-pattern](https://github.com/Arnav-aka-guy/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Arnav-aka-guy/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -104,6 +106,7 @@
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Arnav-aka-guy/leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | [0242-valid-anagram](https://github.com/Arnav-aka-guy/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Arnav-aka-guy/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Arnav-aka-guy/leetcode/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
