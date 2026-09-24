@@ -31,6 +31,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arnav-aka-guy/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav-aka-guy/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arnav-aka-guy/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
