@@ -29,6 +29,7 @@
 | [1051-height-checker](https://github.com/Arnav-aka-guy/leetcode/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arnav-aka-guy/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arnav-aka-guy/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -48,6 +49,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0344-reverse-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Arnav-aka-guy/leetcode/tree/master/0412-fizz-buzz) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
