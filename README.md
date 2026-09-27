@@ -138,6 +138,7 @@
 | [0344-reverse-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Arnav-aka-guy/leetcode/tree/master/0412-fizz-buzz) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arnav-aka-guy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -238,6 +239,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arnav-aka-guy/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arnav-aka-guy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arnav-aka-guy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
@@ -246,4 +248,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arnav-aka-guy/leetcode/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arnav-aka-guy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
