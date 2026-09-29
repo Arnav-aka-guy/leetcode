@@ -40,6 +40,7 @@
 | [0013-roman-to-integer](https://github.com/Arnav-aka-guy/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Arnav-aka-guy/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnav-aka-guy/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Arnav-aka-guy/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Arnav-aka-guy/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Arnav-aka-guy/leetcode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Arnav-aka-guy/leetcode/tree/master/0283-move-zeroes) |
@@ -185,6 +187,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
 ## Number Theory!
 |  |
@@ -223,6 +226,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arnav-aka-guy/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
