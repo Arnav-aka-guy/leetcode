@@ -97,6 +97,7 @@
 | [0728-self-dividing-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Arnav-aka-guy/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2396-strictly-palindromic-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arnav-aka-guy/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -127,6 +128,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -259,4 +261,8 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arnav-aka-guy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arnav-aka-guy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
