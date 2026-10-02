@@ -50,6 +50,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Arnav-aka-guy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/Arnav-aka-guy/leetcode/tree/master/0771-jewels-and-stones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sorting
 |  |
@@ -142,6 +143,7 @@
 | [0344-reverse-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Arnav-aka-guy/leetcode/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/Arnav-aka-guy/leetcode/tree/master/0771-jewels-and-stones) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arnav-aka-guy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arnav-aka-guy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
