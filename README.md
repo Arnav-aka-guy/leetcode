@@ -232,11 +232,13 @@
 | [0021-merge-two-sorted-lists](https://github.com/Arnav-aka-guy/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arnav-aka-guy/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Arnav-aka-guy/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Arnav-aka-guy/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Arnav-aka-guy/leetcode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Arnav-aka-guy/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
