@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Arnav-aka-guy/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Arnav-aka-guy/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Arnav-aka-guy/leetcode/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnav-aka-guy/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arnav-aka-guy/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,11 +219,13 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arnav-aka-guy/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -272,4 +276,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/2396-strictly-palindromic-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
