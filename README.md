@@ -54,6 +54,7 @@
 | [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Arnav-aka-guy/leetcode/tree/master/0771-jewels-and-stones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arnav-aka-guy/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0268-missing-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Arnav-aka-guy/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arnav-aka-guy/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arnav-aka-guy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arnav-aka-guy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arnav-aka-guy/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -161,6 +164,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/Arnav-aka-guy/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Arnav-aka-guy/leetcode/tree/master/1051-height-checker) |
+| [2351-first-letter-to-appear-twice](https://github.com/Arnav-aka-guy/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
