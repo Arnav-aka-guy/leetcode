@@ -27,6 +27,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Arnav-aka-guy/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Arnav-aka-guy/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Arnav-aka-guy/leetcode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Arnav-aka-guy/leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Arnav-aka-guy/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -199,6 +200,7 @@
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Arnav-aka-guy/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Arnav-aka-guy/leetcode/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/Arnav-aka-guy/leetcode/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Memoization
