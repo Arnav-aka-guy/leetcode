@@ -29,6 +29,7 @@
 | [0485-max-consecutive-ones](https://github.com/Arnav-aka-guy/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Arnav-aka-guy/leetcode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Arnav-aka-guy/leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Arnav-aka-guy/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Arnav-aka-guy/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Arnav-aka-guy/leetcode/tree/master/0724-find-pivot-index) |
@@ -77,6 +78,7 @@
 | [0389-find-the-difference](https://github.com/Arnav-aka-guy/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Arnav-aka-guy/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Arnav-aka-guy/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Arnav-aka-guy/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -299,4 +301,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Arnav-aka-guy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Arnav-aka-guy/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
