@@ -33,6 +33,7 @@
 | [0561-array-partition](https://github.com/Arnav-aka-guy/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Arnav-aka-guy/leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arnav-aka-guy/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Arnav-aka-guy/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Arnav-aka-guy/leetcode/tree/master/0724-find-pivot-index) |
 | [0976-largest-perimeter-triangle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -205,6 +206,7 @@
 | [0258-add-digits](https://github.com/Arnav-aka-guy/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Arnav-aka-guy/leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Arnav-aka-guy/leetcode/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/Arnav-aka-guy/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnav-aka-guy/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Memoization
@@ -279,6 +281,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arnav-aka-guy/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arnav-aka-guy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/Arnav-aka-guy/leetcode/tree/master/0682-baseball-game) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arnav-aka-guy/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arnav-aka-guy/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Combinatorics
