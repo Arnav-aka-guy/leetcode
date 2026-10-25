@@ -140,6 +140,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Arnav-aka-guy/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Arnav-aka-guy/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Arnav-aka-guy/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Arnav-aka-guy/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
@@ -158,6 +159,7 @@
 | [0049-group-anagrams](https://github.com/Arnav-aka-guy/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Arnav-aka-guy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Arnav-aka-guy/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Arnav-aka-guy/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Arnav-aka-guy/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/0344-reverse-string) |
