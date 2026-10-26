@@ -53,6 +53,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Arnav-aka-guy/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Arnav-aka-guy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Arnav-aka-guy/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Arnav-aka-guy/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arnav-aka-guy/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arnav-aka-guy/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Arnav-aka-guy/leetcode/tree/master/0242-valid-anagram) |
@@ -160,6 +161,7 @@
 | [0058-length-of-last-word](https://github.com/Arnav-aka-guy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Arnav-aka-guy/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Arnav-aka-guy/leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Arnav-aka-guy/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Arnav-aka-guy/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Arnav-aka-guy/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Arnav-aka-guy/leetcode/tree/master/0344-reverse-string) |
